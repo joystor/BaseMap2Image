@@ -10,7 +10,7 @@ How to Use
 
   1 - baseMap Name (list files in html directory) <br>
   2-5 Coordinates in EPSG:3857 <br>
-  6 - Output File Name <br>
+  6 - Output File Name (JPG|PNG)<br>
   7-8 Image Size <br>
   
   
